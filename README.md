@@ -1,4 +1,4 @@
-<details>
+<details id=0 open>
 <summary> About me </summary>
 
 ### Hi there 👋
